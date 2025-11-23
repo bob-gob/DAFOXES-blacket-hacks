@@ -1,4 +1,6 @@
 # DAFOXES-blacket-hacks
 Some INSANE hacks for blacket
 
-(I also made 8 other respositorys with hacks)
+(go here to see my othr hacks:)
+
+https://github.com/bob-gob?tab=repositories
